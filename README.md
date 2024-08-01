@@ -23,10 +23,10 @@ Professional Goals 🚀
 Career Development: I concentrated on advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create impactful technology solutions.
 Continuous Learning: Dedicated to continuous professional growth by keeping up with the latest technology trends and enhancing my coding abilities. 📈
 
-Connect with Me 📬
-🐦 [Twitter](https://twitter.com/ecodes_gm)
-📫 [Email](touraye07@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ebrima-touray-6574b21a7/)
+## Connect with Me 📬
+* 🐦 [Twitter](https://twitter.com/ecodes_gm)
+* 📫 [Email](touraye07@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ebrima-touray-6574b21a7/)
 
 <!--
 **touraye/touraye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
